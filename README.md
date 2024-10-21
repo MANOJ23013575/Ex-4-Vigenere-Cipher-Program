@@ -103,7 +103,6 @@ void decipher() {
   
 ```
 ## OUTPUT:
-![alt text]('4.png)
-
+![alt text](<Screenshot 2024-10-21 111525.png>)
 ## RESULT:
 The program is executed successfully
